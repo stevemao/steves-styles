@@ -1,10 +1,10 @@
 {
-  "name": "steves-fonts",
+  "name": "steves-styles",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/steves-fonts",
+  "repository": "https://github.com/atom/steves-styles",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

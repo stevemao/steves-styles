@@ -1,4 +1,4 @@
-# steves-fonts package
+# steves-styles package
 
 A short description of your package.
 
